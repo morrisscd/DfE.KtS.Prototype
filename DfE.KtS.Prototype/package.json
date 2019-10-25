@@ -1,0 +1,31 @@
+{
+  "name": "df-e.kt-s.prototype",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "DfE.KtS.Prototype",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "cross-spawn": "^7.0.1",
+    "debug": "^2.2.0",
+    "del": "^5.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.14.0",
+    "govuk-frontend": "^3.3.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "morgan": "^1.7.0",
+    "nunjucks": "^3.2.0",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}
